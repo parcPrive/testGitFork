@@ -6,7 +6,7 @@ function App() {
   
   return (
     <div className="container mt-5">
-      <h1 className="text-center mb-4">hihihihihihihi</h1>
+      <h1 className="text-center mb-4">배고파요..</h1>
     </div>
   );
 }
